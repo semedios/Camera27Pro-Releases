@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#232833"/><stop offset="1" stop-color="#101217"/></linearGradient><linearGradient id="metal" x2="0" y2="1"><stop stop-color="#e2e8f0"/><stop offset="1" stop-color="#8995a7"/></linearGradient><radialGradient id="lens"><stop stop-color="#346b81"/><stop offset="1" stop-color="#111827"/></radialGradient></defs>
+<rect width="1000" height="280" rx="24" fill="url(#bg)"/><rect x="38" y="48" width="184" height="184" rx="42" fill="#10141b" stroke="#454b56"/>
+<rect x="83" y="90" width="34" height="23" rx="6" fill="url(#metal)"/><rect x="61" y="107" width="138" height="92" rx="19" fill="url(#metal)"/><circle cx="130" cy="153" r="39" fill="#1a222d"/><circle cx="130" cy="153" r="33" fill="#a1afbf"/><circle cx="130" cy="153" r="29" fill="url(#lens)"/><circle cx="130" cy="153" r="17" fill="#141e2c"/><circle cx="120" cy="140" r="5" fill="#7cc2d5"/><circle cx="181" cy="121" r="4" fill="#facc15"/>
+<text x="262" y="110" fill="#facc15" font-family="Arial,sans-serif" font-size="16" font-weight="bold" letter-spacing="3">INDEPENDENT iOS CAMERA</text>
+<text x="258" y="164" fill="#ffffff" font-family="Arial,sans-serif" font-size="55" font-weight="bold">Camera 27 Pro</text>
+<text x="262" y="203" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="25">Your camera. Your microphone.</text>
+<path d="M262 235 H942" stroke="#414957"/><text x="262" y="259" fill="#9ca3af" font-family="Arial,sans-serif" font-size="15">MANUAL AUDIO SOURCES   /   LOCAL NOISE FILTER   /   LIVE ZOOM</text>
+</svg>
