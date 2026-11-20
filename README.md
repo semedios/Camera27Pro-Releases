@@ -53,7 +53,15 @@ Found a problem? [Report a bug](https://github.com/semedios/Camera27Pro-Releases
 
 Please do not post personal recordings, credentials, device identifiers or other private information.
 
-Want to support development? Star this repository or share constructive feedback. A donation service has not yet been configured. The app is a prototype; no paid signing service is offered.
+### ❤️ Support development
+
+Camera 27 Pro is free to use. Voluntary contributions help fund development, testing and Apple Developer Program membership towards a possible App Store release. Donations are optional and do not purchase signing or access.
+
+<p align="center"><a href="https://send.monobank.ua/jar/sY6EPFQAt"><img src="https://img.shields.io/badge/Donate-Monobank-8B5CF6?style=for-the-badge" alt="Donate via Monobank"></a></p>
+<p align="center"><a href="https://send.monobank.ua/jar/sY6EPFQAt"><img src="assets/donate-qr.svg" width="180" alt="Monobank donation QR code"></a></p>
+<p align="center"><a href="https://send.monobank.ua/jar/sY6EPFQAt">Support Camera 27 Pro / Підтримати розробку</a></p>
+
+You can also support the project for free by starring this repository or sharing feedback. Thank you!
 
 Read our [privacy information](PRIVACY.md).
 
@@ -65,6 +73,8 @@ Camera 27 Pro — незалежна камера для iPhone з ручним 
 
 Потрібні iOS 16+, власний підпис застосунку для особистого тестування та режим розробника. Публікація IPA ще очікується. Безкоштовний підпис зазвичай діє 7 днів.
 
+Добровільно [підтримати розробку через monobank](https://send.monobank.ua/jar/sY6EPFQAt).
+
 ## По-русски
 
 Camera 27 Pro — независимая камера для iPhone с ручным выбором доступного микрофона и экспериментальным шумоподавлением. Помогает обойти некоторые проблемы со звуком при видеозаписи, но не заменяет ремонт.
@@ -72,6 +82,8 @@ Camera 27 Pro — независимая камера для iPhone с ручн�
 [Скачать](https://github.com/semedios/Camera27Pro-Releases/releases) · [Инструкция](INSTALL.md)
 
 Требуется iOS 16+, самостоятельная подпись для личного тестирования и режим разработчика. Публикация IPA пока ожидается. Бесплатная подпись обычно действует 7 дней.
+
+Добровольно [поддержать разработку через Monobank](https://send.monobank.ua/jar/sY6EPFQAt).
 
 ---
 
